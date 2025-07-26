@@ -102,6 +102,6 @@ This clearly shows that the model learned quickly and generalized well, especial
 
 panda
 
-#### Confusion Matrix
+#### Confusion Matrix (for batch-size=20)
 
 <img width="697" height="530" alt="image" src="https://github.com/user-attachments/assets/11feeb08-f387-499e-a766-2e9fde8ae87f" />
